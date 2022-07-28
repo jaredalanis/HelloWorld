@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="jared_intro">Hello World! My name is Jared Alanis. I\'m studying computer engineering at Cal Poly Pomona. Practicing Android App development on my spare time.</string>
+    <string name="btn_text">Say Hello</string>
+</resources>
