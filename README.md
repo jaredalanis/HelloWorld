@@ -14,10 +14,6 @@ The following **required** functionality is completed:
 * [x] Button displayed on screen
 * [x] Toast with message appears when button is pressed 
 
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
@@ -33,11 +29,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was unable to get the spacing for the image to lineup when using layout_marginTop.
+I had to first switch the layout_width and layout_height of the image to numerical values.
+Both values were switched to 250dp. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Jared Alanis
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
